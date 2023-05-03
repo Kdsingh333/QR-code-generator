@@ -31,5 +31,5 @@ app.post("/scan",(req,res)=>
     })
 })
 
-const port=1000;
+const port=6969;
 app.listen(port,()=>console.log("Server at 1000"));
